@@ -1,0 +1,12 @@
+/.vscode
+.idea
+.DS_Store
+/nbproject
+/config/*
+/data/*
+/logs/*
+/www/langfiles/compilation_cache
+/www/vendor
+/www/photos
+/www/pro/utils/upload
+/www/.env
